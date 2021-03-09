@@ -1,5 +1,7 @@
 body {
-  background-color: pink;
+  background-image: url(./Allisvanity.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body {
@@ -7,6 +9,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: white;
+
+  /* https://commons.wikimedia.org/wiki/Template:PD-US */
 }
 
 p {
