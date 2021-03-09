@@ -1,0 +1,15 @@
+body {
+  background-color: pink;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-family: cursive;
+  font-size: 3rem;
+}
